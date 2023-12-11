@@ -1,0 +1,102 @@
+D:\.net project\AtmWithAdo.Net\AtmWithAdo.Net\bin\Debug\net6.0-windows\AtmWithAdo.Net.exe
+D:\.net project\AtmWithAdo.Net\AtmWithAdo.Net\bin\Debug\net6.0-windows\AtmWithAdo.Net.deps.json
+D:\.net project\AtmWithAdo.Net\AtmWithAdo.Net\bin\Debug\net6.0-windows\AtmWithAdo.Net.runtimeconfig.json
+D:\.net project\AtmWithAdo.Net\AtmWithAdo.Net\bin\Debug\net6.0-windows\AtmWithAdo.Net.dll
+D:\.net project\AtmWithAdo.Net\AtmWithAdo.Net\bin\Debug\net6.0-windows\AtmWithAdo.Net.pdb
+D:\.net project\AtmWithAdo.Net\AtmWithAdo.Net\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\.net project\AtmWithAdo.Net\AtmWithAdo.Net\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\.net project\AtmWithAdo.Net\AtmWithAdo.Net\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\.net project\AtmWithAdo.Net\AtmWithAdo.Net\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\.net project\AtmWithAdo.Net\AtmWithAdo.Net\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\.net project\AtmWithAdo.Net\AtmWithAdo.Net\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\.net project\AtmWithAdo.Net\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.vbproj.AssemblyReference.cache
+D:\.net project\AtmWithAdo.Net\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.Form1.resources
+D:\.net project\AtmWithAdo.Net\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.Form2.resources
+D:\.net project\AtmWithAdo.Net\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.Form3.resources
+D:\.net project\AtmWithAdo.Net\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.Form4.resources
+D:\.net project\AtmWithAdo.Net\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.Form6.resources
+D:\.net project\AtmWithAdo.Net\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.vbproj.GenerateResource.cache
+D:\.net project\AtmWithAdo.Net\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net project\AtmWithAdo.Net\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.AssemblyInfoInputs.cache
+D:\.net project\AtmWithAdo.Net\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.AssemblyInfo.vb
+D:\.net project\AtmWithAdo.Net\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.vbproj.CoreCompileInputs.cache
+D:\.net project\AtmWithAdo.Net\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.vbproj.CopyComplete
+D:\.net project\AtmWithAdo.Net\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.dll
+D:\.net project\AtmWithAdo.Net\AtmWithAdo.Net\obj\Debug\net6.0-windows\refint\AtmWithAdo.Net.dll
+D:\.net project\AtmWithAdo.Net\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.pdb
+D:\.net project\AtmWithAdo.Net\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.genruntimeconfig.cache
+D:\.net project\AtmWithAdo.Net\AtmWithAdo.Net\obj\Debug\net6.0-windows\ref\AtmWithAdo.Net.dll
+D:\.net project\AtmWithAdo.Net\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.Form10.resources
+D:\.net project\AtmWithAdo.Net\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.Form8.resources
+D:\.net project\AtmWithAdo.Net\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.Form9.resources
+D:\.net project\AtmWithAdo.Net\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.Form11.resources
+D:\.net project\AtmWithAdo.Net\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.Form5.resources
+D:\.net project\AtmWithAdo.Net\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.Resources.resources
+D:\.net project\git hub\AtmWithAdo.Net\AtmWithAdo.Net\bin\Debug\net6.0-windows\AtmWithAdo.Net.exe
+D:\.net project\git hub\AtmWithAdo.Net\AtmWithAdo.Net\bin\Debug\net6.0-windows\AtmWithAdo.Net.deps.json
+D:\.net project\git hub\AtmWithAdo.Net\AtmWithAdo.Net\bin\Debug\net6.0-windows\AtmWithAdo.Net.runtimeconfig.json
+D:\.net project\git hub\AtmWithAdo.Net\AtmWithAdo.Net\bin\Debug\net6.0-windows\AtmWithAdo.Net.dll
+D:\.net project\git hub\AtmWithAdo.Net\AtmWithAdo.Net\bin\Debug\net6.0-windows\AtmWithAdo.Net.pdb
+D:\.net project\git hub\AtmWithAdo.Net\AtmWithAdo.Net\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\.net project\git hub\AtmWithAdo.Net\AtmWithAdo.Net\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\.net project\git hub\AtmWithAdo.Net\AtmWithAdo.Net\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\.net project\git hub\AtmWithAdo.Net\AtmWithAdo.Net\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\.net project\git hub\AtmWithAdo.Net\AtmWithAdo.Net\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\.net project\git hub\AtmWithAdo.Net\AtmWithAdo.Net\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\.net project\git hub\AtmWithAdo.Net\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.vbproj.AssemblyReference.cache
+D:\.net project\git hub\AtmWithAdo.Net\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.Form1.resources
+D:\.net project\git hub\AtmWithAdo.Net\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.Form10.resources
+D:\.net project\git hub\AtmWithAdo.Net\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.Form11.resources
+D:\.net project\git hub\AtmWithAdo.Net\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.Form2.resources
+D:\.net project\git hub\AtmWithAdo.Net\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.Form3.resources
+D:\.net project\git hub\AtmWithAdo.Net\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.Form4.resources
+D:\.net project\git hub\AtmWithAdo.Net\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.Form5.resources
+D:\.net project\git hub\AtmWithAdo.Net\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.Form6.resources
+D:\.net project\git hub\AtmWithAdo.Net\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.Form8.resources
+D:\.net project\git hub\AtmWithAdo.Net\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.Form9.resources
+D:\.net project\git hub\AtmWithAdo.Net\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.Resources.resources
+D:\.net project\git hub\AtmWithAdo.Net\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.vbproj.GenerateResource.cache
+D:\.net project\git hub\AtmWithAdo.Net\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net project\git hub\AtmWithAdo.Net\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.AssemblyInfoInputs.cache
+D:\.net project\git hub\AtmWithAdo.Net\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.AssemblyInfo.vb
+D:\.net project\git hub\AtmWithAdo.Net\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.vbproj.CoreCompileInputs.cache
+D:\.net project\git hub\AtmWithAdo.Net\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.vbproj.CopyComplete
+D:\.net project\git hub\AtmWithAdo.Net\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.dll
+D:\.net project\git hub\AtmWithAdo.Net\AtmWithAdo.Net\obj\Debug\net6.0-windows\refint\AtmWithAdo.Net.dll
+D:\.net project\git hub\AtmWithAdo.Net\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.pdb
+D:\.net project\git hub\AtmWithAdo.Net\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.genruntimeconfig.cache
+D:\.net project\git hub\AtmWithAdo.Net\AtmWithAdo.Net\obj\Debug\net6.0-windows\ref\AtmWithAdo.Net.dll
+C:\Users\Aseel\OneDrive\Desktop\Bank Project\AtmWithAdo.Net\bin\Debug\net6.0-windows\AtmWithAdo.Net.exe
+C:\Users\Aseel\OneDrive\Desktop\Bank Project\AtmWithAdo.Net\bin\Debug\net6.0-windows\AtmWithAdo.Net.deps.json
+C:\Users\Aseel\OneDrive\Desktop\Bank Project\AtmWithAdo.Net\bin\Debug\net6.0-windows\AtmWithAdo.Net.runtimeconfig.json
+C:\Users\Aseel\OneDrive\Desktop\Bank Project\AtmWithAdo.Net\bin\Debug\net6.0-windows\AtmWithAdo.Net.dll
+C:\Users\Aseel\OneDrive\Desktop\Bank Project\AtmWithAdo.Net\bin\Debug\net6.0-windows\AtmWithAdo.Net.pdb
+C:\Users\Aseel\OneDrive\Desktop\Bank Project\AtmWithAdo.Net\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Aseel\OneDrive\Desktop\Bank Project\AtmWithAdo.Net\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Aseel\OneDrive\Desktop\Bank Project\AtmWithAdo.Net\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Aseel\OneDrive\Desktop\Bank Project\AtmWithAdo.Net\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Aseel\OneDrive\Desktop\Bank Project\AtmWithAdo.Net\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Aseel\OneDrive\Desktop\Bank Project\AtmWithAdo.Net\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Aseel\OneDrive\Desktop\Bank Project\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.vbproj.AssemblyReference.cache
+C:\Users\Aseel\OneDrive\Desktop\Bank Project\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.Form1.resources
+C:\Users\Aseel\OneDrive\Desktop\Bank Project\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.Form10.resources
+C:\Users\Aseel\OneDrive\Desktop\Bank Project\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.Form11.resources
+C:\Users\Aseel\OneDrive\Desktop\Bank Project\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.Form2.resources
+C:\Users\Aseel\OneDrive\Desktop\Bank Project\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.Form3.resources
+C:\Users\Aseel\OneDrive\Desktop\Bank Project\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.Form4.resources
+C:\Users\Aseel\OneDrive\Desktop\Bank Project\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.Form5.resources
+C:\Users\Aseel\OneDrive\Desktop\Bank Project\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.Form6.resources
+C:\Users\Aseel\OneDrive\Desktop\Bank Project\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.Form8.resources
+C:\Users\Aseel\OneDrive\Desktop\Bank Project\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.Form9.resources
+C:\Users\Aseel\OneDrive\Desktop\Bank Project\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.Resources.resources
+C:\Users\Aseel\OneDrive\Desktop\Bank Project\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.vbproj.GenerateResource.cache
+C:\Users\Aseel\OneDrive\Desktop\Bank Project\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aseel\OneDrive\Desktop\Bank Project\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.AssemblyInfoInputs.cache
+C:\Users\Aseel\OneDrive\Desktop\Bank Project\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.AssemblyInfo.vb
+C:\Users\Aseel\OneDrive\Desktop\Bank Project\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.vbproj.CoreCompileInputs.cache
+C:\Users\Aseel\OneDrive\Desktop\Bank Project\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.vbproj.CopyComplete
+C:\Users\Aseel\OneDrive\Desktop\Bank Project\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.dll
+C:\Users\Aseel\OneDrive\Desktop\Bank Project\AtmWithAdo.Net\obj\Debug\net6.0-windows\refint\AtmWithAdo.Net.dll
+C:\Users\Aseel\OneDrive\Desktop\Bank Project\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.pdb
+C:\Users\Aseel\OneDrive\Desktop\Bank Project\AtmWithAdo.Net\obj\Debug\net6.0-windows\AtmWithAdo.Net.genruntimeconfig.cache
+C:\Users\Aseel\OneDrive\Desktop\Bank Project\AtmWithAdo.Net\obj\Debug\net6.0-windows\ref\AtmWithAdo.Net.dll
